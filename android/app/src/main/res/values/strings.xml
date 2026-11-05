@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Noodle Bowl Conveyor</string>
+    <string name="app_title">NOODLE BOWL CONVEYOR</string>
+    <string name="splash_tagline">HOT BOWLS, HAPPY CUSTOMERS</string>
+
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="serve">SERVE</string>
+    <string name="resume">RESUME</string>
+    <string name="restart">RESTART</string>
+    <string name="decor">DECOR</string>
+    <string name="recipes">RECIPES</string>
+    <string name="settings">SETTINGS</string>
+    <string name="buy">BUY</string>
+    <string name="got_it">GOT IT</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="menu_tagline">PICK A SHOP AND START THE SHIFT</string>
+    <string name="relaxed_kitchen">RELAXED KITCHEN (NO TIMERS)</string>
+    <string name="lets_cook">LET\'S COOK</string>
+    <string name="shift_complete">SHIFT COMPLETE</string>
+    <string name="shift_over">SHIFT OVER</string>
+    <string name="paused">PAUSED</string>
+    <string name="decor_shop">DECOR SHOP</string>
+    <string name="recipe_book">RECIPE BOOK</string>
+    <string name="daily_special">DAILY SPECIAL</string>
+
+    <string name="stamps">STAMPS</string>
+    <string name="tips">TIPS</string>
+    <string name="combo">COMBO</string>
+    <string name="missed">MISSED</string>
+    <string name="bowls_served">BOWLS SERVED</string>
+    <string name="best_combo">BEST COMBO</string>
+    <string name="streak">DAY STREAK</string>
+
+    <string name="coach_belt">TAP AN INGREDIENT</string>
+    <string name="coach_serve">SERVE THE MATCHING TICKET</string>
+    <string name="no_stamps">NO STAMPS YET - PLAY A SHIFT</string>
+
+    <string name="shop_fmt">SHOP %1$d</string>
+    <string name="served_fmt">SERVED %1$d / %2$d</string>
+    <string name="missed_fmt">MISSED %1$d / %2$d</string>
+    <string name="combo_fmt">COMBO x%1$d</string>
+    <string name="stars_fmt">%1$d of 3 stars</string>
+
+    <string name="shift_pace">SHIFT PACE</string>
+    <string name="pace_gentle">GENTLE</string>
+    <string name="pace_steady">STEADY</string>
+    <string name="pace_busy">BUSY</string>
+    <string name="haptics">HAPTICS</string>
+    <string name="left_hand">LEFT-HAND MODE</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_title">Reset progress</string>
+    <string name="reset_message">Stamps, stars and decorations go back to zero. The recipe book stays open.</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+
+    <string name="ing_noodles">NOODLES</string>
+    <string name="ing_broth">BROTH</string>
+    <string name="ing_egg">EGG</string>
+    <string name="ing_greens">GREENS</string>
+    <string name="ing_chilli">CHILLI</string>
+
+    <string name="cd_logo">Noodle Bowl Conveyor emblem</string>
+    <string name="cd_pause">Pause the shift</string>
+    <string name="cd_home">Back to the menu</string>
+    <string name="cd_customer">Waiting customer</string>
+    <string name="cd_ticket_item">Ticket ingredient</string>
+    <string name="cd_belt_item">Belt ingredient</string>
+    <string name="cd_decor_item">Decoration</string>
+
+    <string name="state_bowl_fmt">Bowl %1$d, %2$d of %3$d items</string>
+    <string name="state_shop_open">Shop open</string>
+    <string name="state_shop_locked">Shop locked</string>
+    <string name="state_patience_fmt">Patience %1$d percent</string>
+    <string name="state_owned">Owned</string>
+    <string name="state_affordable">Can buy</string>
+    <string name="state_too_expensive">Not enough stamps</string>
+    <string name="state_recipe_locked">Recipe locked</string>
+    <string name="state_recipe_open">Recipe open</string>
+
+    <string name="owned">OWNED</string>
+    <string name="recipe_locked_fmt">SERVE %1$d BOWLS</string>
+
+    <string name="shop_1">Lantern Lane</string>
+    <string name="shop_2">Market Steps</string>
+    <string name="shop_3">Rainy Arcade</string>
+    <string name="shop_4">Harbour Gate</string>
+    <string name="shop_5">Paper Bridge</string>
+    <string name="shop_6">Clay Hill</string>
+    <string name="shop_7">Night Tram Stop</string>
+    <string name="shop_8">Pepper Alley</string>
+    <string name="shop_9">Riverside Noren</string>
+
+    <string name="recipe_1">Morning Broth</string>
+    <string name="recipe_1_note">Tama likes it plain and very hot</string>
+    <string name="recipe_2">Egg Drop Bowl</string>
+    <string name="recipe_2_note">Mochi always asks for a second egg</string>
+    <string name="recipe_3">Garden Noodles</string>
+    <string name="recipe_3_note">Hiro counts the greens before eating</string>
+    <string name="recipe_4">Double Noodle</string>
+    <string name="recipe_4_note">Bun eats this after every long walk</string>
+    <string name="recipe_5">Sunrise Bowl</string>
+    <string name="recipe_5_note">Yuzu waits for the yolk to run</string>
+    <string name="recipe_6">Leafy Broth</string>
+    <string name="recipe_6_note">Pepper calls this the quiet one</string>
+    <string name="recipe_7">Counter Special</string>
+    <string name="recipe_7_note">Suki orders it without reading the board</string>
+    <string name="recipe_8">Night Tram Bowl</string>
+    <string name="recipe_8_note">Dango takes it to the last tram</string>
+    <string name="recipe_9">Harbour Full</string>
+    <string name="recipe_9_note">Nori shares the broth with the gulls</string>
+    <string name="recipe_10">Clay Pot Egg</string>
+    <string name="recipe_10_note">Momo blows on it for a long time</string>
+    <string name="recipe_11">Rainy Day Green</string>
+    <string name="recipe_11_note">Kuro comes in only when it drizzles</string>
+    <string name="recipe_12">Riverside Feast</string>
+    <string name="recipe_12_note">Shiro finishes the broth first</string>
+
+    <string name="decor_1">Paper Lanterns</string>
+    <string name="decor_2">Lucky Cat Shelf</string>
+    <string name="decor_3">Noren Curtain</string>
+    <string name="decor_4">Wall Menu Board</string>
+    <string name="decor_5">Potted Fern</string>
+    <string name="decor_6">Street Poster</string>
+    <string name="decor_7">Counter Stools</string>
+    <string name="decor_8">Round Paper Lamp</string>
+    <string name="decor_9">Copper Pot Rack</string>
+    <string name="decor_10">Rain Awning</string>
+    <string name="decor_11">Chalk Price Board</string>
+    <string name="decor_12">Window Flower Box</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "outcome": "succeeded",
+  "fix_type": "transient",
+  "resume_from": "codegen",
+  "message": "Restart from Step 0 finished.",
+  "log": "projects/NoodleBowlConveyor/.resume-20261105-185653.log",
+  "attempted_at_epoch": 1793910393
+}
